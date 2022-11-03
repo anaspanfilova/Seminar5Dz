@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\bin\Debug\net6.0\задача со звездочкой.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\bin\Debug\net6.0\задача со звездочкой.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\bin\Debug\net6.0\задача со звездочкой.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\bin\Debug\net6.0\задача со звездочкой.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\bin\Debug\net6.0\задача со звездочкой.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\refint\задача со звездочкой.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\задача со звездочкой.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\Новая папка (3)\Seminar5Dz\задача со звездочкой\obj\Debug\net6.0\ref\задача со звездочкой.dll
