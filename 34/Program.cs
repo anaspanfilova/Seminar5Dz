@@ -13,7 +13,7 @@ int[] NewArray(int size)
     return result;
 }
 
-void ElementNum(int[] array)
+int ElementNum(int[] array)
 {
     int elm = 0;
     for (int i = 0; i < array.Length; i++)
@@ -23,12 +23,13 @@ void ElementNum(int[] array)
             elm++;
         }
     }
-    Console.WriteLine($"Колличество четных = {elm}");
+    return elm;
 }
 
-Console.WriteLine("Введите массив:");
+Console.WriteLine("Введите размер массива:");
 int n = int.Parse(Console.ReadLine()!);
 int[] array = NewArray(n);
 ElementNum(array);
+Console.WriteLine($"Колличество четных = {ElementNum(array)}");
 Console.WriteLine(String.Join(", ", array));
 

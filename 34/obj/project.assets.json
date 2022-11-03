@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Анастасия\\.nuget\\packages\\": {}
+    "C:\\Users\\Свтофор\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Анастасия\\OneDrive\\Рабочий стол\\domashka5\\34\\34.csproj",
+      "projectUniqueName": "C:\\Users\\Свтофор\\OneDrive\\Рабочий стол\\Новая папка (3)\\Seminar5Dz\\34\\34.csproj",
       "projectName": "34",
-      "projectPath": "C:\\Users\\Анастасия\\OneDrive\\Рабочий стол\\domashka5\\34\\34.csproj",
-      "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Анастасия\\OneDrive\\Рабочий стол\\domashka5\\34\\obj\\",
+      "projectPath": "C:\\Users\\Свтофор\\OneDrive\\Рабочий стол\\Новая папка (3)\\Seminar5Dz\\34\\34.csproj",
+      "packagesPath": "C:\\Users\\Свтофор\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Свтофор\\OneDrive\\Рабочий стол\\Новая папка (3)\\Seminar5Dz\\34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Свтофор\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
